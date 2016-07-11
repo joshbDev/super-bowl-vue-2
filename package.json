@@ -1,7 +1,7 @@
 {
-  "name": "super-bowl-vue",
-  "version": "1.0.1",
-  "description": "Super Bowl Application built in VueJs",
+  "name": "super-bowl-vue-2",
+  "version": "1.0.0",
+  "description": "Super Bowl Application built in VueJs 2.0.0 Beta",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
